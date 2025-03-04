@@ -21,7 +21,7 @@
   let idleAnimation = null;
   let idleAnimationFrame = 0;
 
-  const nekoSpeed = 15;
+  const nekoSpeed = 15; // gyorsabb lesz a cica mert a halott oreganyam jon ki a sirjabol minthogy ez elmenjen 2 centivel messzebb az eredeti helyetol
   const spriteSets = {
     idle: [[-3, -3]],
     alert: [[-7, -3]],
